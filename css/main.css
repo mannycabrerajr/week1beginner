@@ -1,0 +1,122 @@
+/** BODY **/
+body {
+	background-color: #aeaeae;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	curor: pointer;
+	text-decoration: none;
+}
+
+
+
+
+/** HEADER **/
+
+.wrapper {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.header {
+	background-color: #e7e5e6;
+	padding: 30px;
+}
+
+.header .logo {
+	background-color: #aeaeae;
+	padding: 15px 50px;
+	font-size: 48px;
+	display: inline-block;
+}
+
+/** NAVIGATION **/
+
+.navigation {
+	background-color: #a5a3a4;
+}
+
+.navigation ul {
+	margin: 0;
+	padding-left: 0;
+
+}
+
+.navigation li {
+	display: inline-block;
+	padding: 15px 25px;
+}
+
+.navigation a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+/** MAIN BODY **/
+.main {
+	background-color: #f3eff0;
+	float: left;
+	height: 600px;
+	width: 70%;
+}
+
+.main h1 {
+	padding-left: 35px;
+}
+
+.main p {
+	padding: 5px 35px;
+}
+
+/** SIDE BAR **/
+.sidebar {
+	background-color: #cecccd;
+	float: right;
+	width: 30%;
+	height: 600px;
+}
+
+.sidebar h2{
+	padding-left: 20px;
+}
+
+.sidebar ul {
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+/** FOOTER **/
+.footer {
+	clear: both;
+	background-color: #514f50;
+	font-size: 14px;
+	padding: 9px 0;
+}
+
+.footer p {
+	color: #ffffff;
+	padding-left: 35px;
+	margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
